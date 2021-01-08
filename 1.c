@@ -6,6 +6,5 @@ int main()
 	printf("\nNhap vao tap hop A:");
 	Read_Set(&A);
 	Print_Set(A);
-	int n;
-	printf("Chuc dep trai");
+	printf("This is changes on experimental");
 }
