@@ -9,6 +9,4 @@ int main()
 	int L;
 	int k;
 	printf("this i sp");
-	int h;
-	int r;
 }
