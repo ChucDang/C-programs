@@ -8,4 +8,6 @@ int main()
 	Print_Set(A);
 	int n;
 	printf("this is changed");
+	int i;
+	printf("day la i");
 }
