@@ -6,4 +6,7 @@ int main()
 	printf("\nNhap vao tap hop A:");
 	Read_Set(&A);
 	Print_Set(A);
+	Set B;
+	int n;
+	int k;
 }
