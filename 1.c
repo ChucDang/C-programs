@@ -7,5 +7,5 @@ int main()
 	Read_Set(&A);
 	Print_Set(A);
 	int n;
-	printf("this is changed");
+	printf("Chuc dep trai");
 }
